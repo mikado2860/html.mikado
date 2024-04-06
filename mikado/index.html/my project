@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="eng">
+    <head>
+        <meta charset="utf-8">
+        <title>MY RESUME</title>
+    </head>
+    <body>
+        <H3>AIWINNILOMO MUKADAS</H3><BR>
+           <img src="./PIC/Screenshot_20240405-131932.jpg"height=200
+            <br>
+
+            <ul>
+                <li>No 19,Onipasan Street,Agodi Gate,Ibadan.200223,Nigeria.</li>
+                <li>2348140184784       mukadasenitan85@gmail.com</li>
+            </ul>
+            <H4>PROFESSIONAL SUMMARY</H4>
+            <hr />
+            
+            Experienced Web Developer with over 5 years passion for creating attractive and interactive websites meeting 
+            and implementing interactive and scalable websites.
+            Proficient in a range of modern web technologies including HTML5, CSS3, JavaScript (including frameworks like React and Node.js), and CMS platforms such as WordPress and Drupal.
+            Demonstrated history of creating visually appealing and user-friendly websites for small to large-sized businesses, enhancing online presence and driving digital growth.
+            Adept at working in fast-paced environments, consistently meeting deadlines without compromising quality.
+            Strong problem-solving skills and the ability to work both independently and collaboratively in diverse teams. Committed to continuous learning and staying abreast of industry trends
+            
+                <h3>ACCOMPLISHMENTS</h3>
+                <hr>
+                <UL>
+                    <li>Resolved product issue through consumer testing.</li>
+                    <li>Supervised team of [150] staff members.</li>
+                    <li>Collaborated with team of [310] in the development of [ICTY WEB].</li>
+                    <li>Assisted the senior developer regularly with various tasks, which resulted in learning additional scripting languages.</li>
+                    <li>Developed an interactive website for [VILUX ORG] that resulted in an increase in traffic by [300]% in just [1] of week of launch.</li>
+                    <li>Spearheaded a large-scale client project as a result of skill set and education and completed the project two weeks ahead of schedule.</li>
+
+                </UL>
+
+                <H3>EDUCATION SUMMARY</H3>
+                <HR>
+                    <uL>
+                        <LI>University of ibadan,Nigeria</LI> 
+                        <LI>Bachelor of Degree</LI>
+                        <LI>Computer Science and Programming[05/2010</LI>
+                        <LI>proffesional Development Studies.[website Development2009]</LI>
+                        <Li>INTERNSHIP NAME[Mikado Web Click[2011]</Li>
+                    </uL>
+                    <h3>WORK HISTORY</h3>
+                    <HR>
+                        GRAPHICS DESINER<BR>
+                            Ibadan, Oyo State, Nigeria - May 2020 - August 2022<br>
+                            JOB DESCRIPTION<BR>
+                                <UL>
+                                    <lI>Developed creative design for print materials, brochures, banners, and signs.</lI>
+                                    <lI>Created engaging social media graphics that drove user engagement and increased online visibility.</lI>
+                                    <li>Developed creative design for print materials, banners and signs.</li>
+
+                                </UL>
+                                <H3>SKILLS</H3>
+                                <HR>
+                                <UL>
+                                    <LI>Graphic Design</LI>
+                                    <LI>Logo design</LI>
+                                    <li>Social Media Design</li>
+                                    <li>Logo creation</li>
+                                </UL>
+
+                                <H3>CERTIFICATION</H3>
+                                <HR>
+                                    <ul>
+                                        <li>Certified [Graphics Design], [RECONS] - [2012]</li>
+                                        <li>[GOGGLE] Training - [2014]</li>
+                                        <li>[GOGGLE] Training - [2014]</li>
+                                    </ul>
+                                    <a href="./ABOUT/ABOUT.html">About me</a><br>
+                                    <a href="./ABOUT/CONTACT.html">Contact me</a>
+                                   
+
+    </body>
+
+</html>
